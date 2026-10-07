@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "supabase.supabase-vscode",
+    "yoavbls.pretty-ts-errors",
+    "ms-playwright.playwright",
+    "editorconfig.editorconfig",
+    "yzhang.markdown-all-in-one"
+  ]
+}
